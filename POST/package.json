@@ -1,0 +1,22 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-AbuOsbeh/serverless-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmad-AbuOsbeh/serverless-api/issues"
+  },
+  "homepage": "https://github.com/Ahmad-AbuOsbeh/serverless-api#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "uuid": "^8.3.2"
+  }
+}
